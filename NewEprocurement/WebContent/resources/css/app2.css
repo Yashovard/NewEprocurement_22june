@@ -1,0 +1,961 @@
+/*Yash*/
+/*firstname*/
+#FirstnamE {
+  position: relative;
+  width: 100%;
+  max-width: 240px;
+}
+#FirstnamE input {
+  outline: none;
+  width: 100%;
+  font-size: 16px;
+  border: 0;
+  border-radius: 4px;
+  line-height: 24px;
+  padding: 8px 36px 8px 14px;
+  box-shadow: 0 4px 12px -2px rgba(107, 117, 161, .16);
+  color: #797c86;
+}
+#FirstnamE input::-webkit-input-placeholder {
+  color: #c7c8cc;
+}
+#FirstnamE input:-moz-placeholder {
+  color: #c7c8cc;
+}
+#FirstnamE input::-moz-placeholder {
+  color: #c7c8cc;
+}
+#FirstnamE input:-ms-input-placeholder {
+  color: #c7c8cc;
+}
+#FirstnamE svg {
+  position: absolute;
+  z-index: 1;
+  right: 14px;
+  top: 50%;
+  width: 20px;
+  height: 20px;
+  fill: none;
+  margin: -10px 0 0 0;
+}
+#FirstnamE svg polyline, #FirstnamE svg path {
+  stroke: #d1d7e3;
+  stroke-width: 1.4;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  transition: stroke 0.3s ease 0s;
+}
+#FirstnamE svg path {
+  stroke-dasharray: 64;
+  stroke-dashoffset: 127;
+  transition: stroke-dasharray 0.8s ease 0.8s, stroke-dashoffset 0.8s ease 0.5s;
+}
+#FirstnamE svg polyline {
+  stroke-dasharray: 18;
+  stroke-dashoffset: 18;
+  transition: stroke-dashoffset 0.5s ease 0s;
+}
+#FirstnamE.success svg polyline, #FirstnamE.success svg path {
+  stroke: #69dd95;
+}
+#FirstnamE.success svg path {
+  stroke-dasharray: 46;
+  stroke-dashoffset: 150;
+  transition: stroke-dasharray 0.6s ease 0s, stroke-dashoffset 0.8s ease 0.3s, stroke 0.3s ease 0.6s;
+}
+#FirstnamE.success svg polyline {
+  stroke-dashoffset: 0;
+  transition: stroke-dashoffset 0.5s ease 0.6s, stroke 0.3s ease 0.6s;
+}
+/*firstname*/
+
+
+/*firstname*/
+#MiddlenamE {
+  position: relative;
+  width: 100%;
+  max-width: 240px;
+}
+#MiddlenamE input {
+  outline: none;
+  width: 100%;
+  font-size: 16px;
+  border: 0;
+  border-radius: 4px;
+  line-height: 24px;
+  padding: 8px 36px 8px 14px;
+  box-shadow: 0 4px 12px -2px rgba(107, 117, 161, .16);
+  color: #797c86;
+}
+#MiddlenamE input::-webkit-input-placeholder {
+  color: #c7c8cc;
+}
+#MiddlenamE input:-moz-placeholder {
+  color: #c7c8cc;
+}
+#MiddlenamE input::-moz-placeholder {
+  color: #c7c8cc;
+}
+#MiddlenamE input:-ms-input-placeholder {
+  color: #c7c8cc;
+}
+#MiddlenamE svg {
+  position: absolute;
+  z-index: 1;
+  right: 14px;
+  top: 50%;
+  width: 20px;
+  height: 20px;
+  fill: none;
+  margin: -10px 0 0 0;
+}
+#MiddlenamE svg polyline, #MiddlenamE svg path {
+  stroke: #d1d7e3;
+  stroke-width: 1.4;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  transition: stroke 0.3s ease 0s;
+}
+#MiddlenamE svg path {
+  stroke-dasharray: 64;
+  stroke-dashoffset: 127;
+  transition: stroke-dasharray 0.8s ease 0.8s, stroke-dashoffset 0.8s ease 0.5s;
+}
+#MiddlenamE svg polyline {
+  stroke-dasharray: 18;
+  stroke-dashoffset: 18;
+  transition: stroke-dashoffset 0.5s ease 0s;
+}
+#MiddlenamE.success svg polyline, #MiddlenamE.success svg path {
+  stroke: #69dd95;
+}
+#MiddlenamE.success svg path {
+  stroke-dasharray: 46;
+  stroke-dashoffset: 150;
+  transition: stroke-dasharray 0.6s ease 0s, stroke-dashoffset 0.8s ease 0.3s, stroke 0.3s ease 0.6s;
+}
+#MiddlenamE.success svg polyline {
+  stroke-dashoffset: 0;
+  transition: stroke-dashoffset 0.5s ease 0.6s, stroke 0.3s ease 0.6s;
+}
+/*firstname*/
+
+
+
+/*firstname*/
+#LastnamE {
+  position: relative;
+  width: 100%;
+  max-width: 240px;
+}
+#LastnamE input {
+  outline: none;
+  width: 100%;
+  font-size: 16px;
+  border: 0;
+  border-radius: 4px;
+  line-height: 24px;
+  padding: 8px 36px 8px 14px;
+  box-shadow: 0 4px 12px -2px rgba(107, 117, 161, .16);
+  color: #797c86;
+}
+#LastnamE input::-webkit-input-placeholder {
+  color: #c7c8cc;
+}
+#LastnamE input:-moz-placeholder {
+  color: #c7c8cc;
+}
+#LastnamE input::-moz-placeholder {
+  color: #c7c8cc;
+}
+#LastnamE input:-ms-input-placeholder {
+  color: #c7c8cc;
+}
+#LastnamE svg {
+  position: absolute;
+  z-index: 1;
+  right: 14px;
+  top: 50%;
+  width: 20px;
+  height: 20px;
+  fill: none;
+  margin: -10px 0 0 0;
+}
+#LastnamE svg polyline, #LastnamE svg path {
+  stroke: #d1d7e3;
+  stroke-width: 1.4;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  transition: stroke 0.3s ease 0s;
+}
+#LastnamE svg path {
+  stroke-dasharray: 64;
+  stroke-dashoffset: 127;
+  transition: stroke-dasharray 0.8s ease 0.8s, stroke-dashoffset 0.8s ease 0.5s;
+}
+#LastnamE svg polyline {
+  stroke-dasharray: 18;
+  stroke-dashoffset: 18;
+  transition: stroke-dashoffset 0.5s ease 0s;
+}
+#LastnamE.success svg polyline, #LastnamE.success svg path {
+  stroke: #69dd95;
+}
+#LastnamE.success svg path {
+  stroke-dasharray: 46;
+  stroke-dashoffset: 150;
+  transition: stroke-dasharray 0.6s ease 0s, stroke-dashoffset 0.8s ease 0.3s, stroke 0.3s ease 0.6s;
+}
+#LastnamE.success svg polyline {
+  stroke-dashoffset: 0;
+  transition: stroke-dashoffset 0.5s ease 0.6s, stroke 0.3s ease 0.6s;
+}
+/*firstname*/
+
+
+/*firstname*/
+#FullnamE {
+  position: relative;
+  width: 100%;
+  max-width: 240px;
+}
+#FullnamE input {
+  outline: none;
+  width: 100%;
+  font-size: 16px;
+  border: 0;
+  border-radius: 4px;
+  line-height: 24px;
+  padding: 8px 36px 8px 14px;
+  box-shadow: 0 4px 12px -2px rgba(107, 117, 161, .16);
+  color: #797c86;
+}
+#FullnamE input::-webkit-input-placeholder {
+  color: #c7c8cc;
+}
+#FullnamE input:-moz-placeholder {
+  color: #c7c8cc;
+}
+#FullnamE input::-moz-placeholder {
+  color: #c7c8cc;
+}
+#FullnamE input:-ms-input-placeholder {
+  color: #c7c8cc;
+}
+#FullnamE svg {
+  position: absolute;
+  z-index: 1;
+  right: 14px;
+  top: 50%;
+  width: 20px;
+  height: 20px;
+  fill: none;
+  margin: -10px 0 0 0;
+}
+#FullnamE svg polyline, #FullnamE svg path {
+  stroke: #d1d7e3;
+  stroke-width: 1.4;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  transition: stroke 0.3s ease 0s;
+}
+#FullnamE svg path {
+  stroke-dasharray: 64;
+  stroke-dashoffset: 127;
+  transition: stroke-dasharray 0.8s ease 0.8s, stroke-dashoffset 0.8s ease 0.5s;
+}
+#FullnamE svg polyline {
+  stroke-dasharray: 18;
+  stroke-dashoffset: 18;
+  transition: stroke-dashoffset 0.5s ease 0s;
+}
+#FullnamE.success svg polyline, #FullnamE.success svg path {
+  stroke: #69dd95;
+}
+#FullnamE.success svg path {
+  stroke-dasharray: 46;
+  stroke-dashoffset: 150;
+  transition: stroke-dasharray 0.6s ease 0s, stroke-dashoffset 0.8s ease 0.3s, stroke 0.3s ease 0.6s;
+}
+#FullnamE.success svg polyline {
+  stroke-dashoffset: 0;
+  transition: stroke-dashoffset 0.5s ease 0.6s, stroke 0.3s ease 0.6s;
+}
+/*firstname*/
+
+
+/*firstname*/
+#CompanY {
+  position: relative;
+  width: 100%;
+  max-width: 240px;
+}
+#CompanY input {
+  outline: none;
+  width: 100%;
+  font-size: 16px;
+  border: 0;
+  border-radius: 4px;
+  line-height: 24px;
+  padding: 8px 36px 8px 14px;
+  box-shadow: 0 4px 12px -2px rgba(107, 117, 161, .16);
+  color: #797c86;
+}
+#CompanY input::-webkit-input-placeholder {
+  color: #c7c8cc;
+}
+#CompanY input:-moz-placeholder {
+  color: #c7c8cc;
+}
+#CompanY input::-moz-placeholder {
+  color: #c7c8cc;
+}
+#CompanY input:-ms-input-placeholder {
+  color: #c7c8cc;
+}
+#CompanY svg {
+  position: absolute;
+  z-index: 1;
+  right: 14px;
+  top: 50%;
+  width: 20px;
+  height: 20px;
+  fill: none;
+  margin: -10px 0 0 0;
+}
+#CompanY svg polyline, #CompanY svg path {
+  stroke: #d1d7e3;
+  stroke-width: 1.4;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  transition: stroke 0.3s ease 0s;
+}
+#CompanY svg path {
+  stroke-dasharray: 64;
+  stroke-dashoffset: 127;
+  transition: stroke-dasharray 0.8s ease 0.8s, stroke-dashoffset 0.8s ease 0.5s;
+}
+#CompanY svg polyline {
+  stroke-dasharray: 18;
+  stroke-dashoffset: 18;
+  transition: stroke-dashoffset 0.5s ease 0s;
+}
+#CompanY.success svg polyline, #CompanY.success svg path {
+  stroke: #69dd95;
+}
+#CompanY.success svg path {
+  stroke-dasharray: 46;
+  stroke-dashoffset: 150;
+  transition: stroke-dasharray 0.6s ease 0s, stroke-dashoffset 0.8s ease 0.3s, stroke 0.3s ease 0.6s;
+}
+#CompanY.success svg polyline {
+  stroke-dashoffset: 0;
+  transition: stroke-dashoffset 0.5s ease 0.6s, stroke 0.3s ease 0.6s;
+}
+/*firstname*/
+
+
+/*firstname*/
+#Deg {
+  position: relative;
+  width: 100%;
+  max-width: 240px;
+}
+#Deg input {
+  outline: none;
+  width: 100%;
+  font-size: 16px;
+  border: 0;
+  border-radius: 4px;
+  line-height: 24px;
+  padding: 8px 36px 8px 14px;
+  box-shadow: 0 4px 12px -2px rgba(107, 117, 161, .16);
+  color: #797c86;
+}
+#Deg input::-webkit-input-placeholder {
+  color: #c7c8cc;
+}
+#Deg input:-moz-placeholder {
+  color: #c7c8cc;
+}
+#Deg input::-moz-placeholder {
+  color: #c7c8cc;
+}
+#Deg input:-ms-input-placeholder {
+  color: #c7c8cc;
+}
+#Deg svg {
+  position: absolute;
+  z-index: 1;
+  right: 65px;
+  top: 50%;
+  width: 20px;
+  height: 20px;
+  fill: none;
+  margin: -10px 0 0 0;
+}
+#Deg svg polyline, #Deg svg path {
+  stroke: #d1d7e3;
+  stroke-width: 1.4;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  transition: stroke 0.3s ease 0s;
+}
+#Deg svg path {
+  stroke-dasharray: 64;
+  stroke-dashoffset: 127;
+  transition: stroke-dasharray 0.8s ease 0.8s, stroke-dashoffset 0.8s ease 0.5s;
+}
+#Deg svg polyline {
+  stroke-dasharray: 18;
+  stroke-dashoffset: 18;
+  transition: stroke-dashoffset 0.5s ease 0s;
+}
+#Deg.success svg polyline, #Deg.success svg path {
+  stroke: #69dd95;
+}
+#Deg.success svg path {
+  stroke-dasharray: 46;
+  stroke-dashoffset: 150;
+  transition: stroke-dasharray 0.6s ease 0s, stroke-dashoffset 0.8s ease 0.3s, stroke 0.3s ease 0.6s;
+}
+#Deg.success svg polyline {
+  stroke-dashoffset: 0;
+  transition: stroke-dashoffset 0.5s ease 0.6s, stroke 0.3s ease 0.6s;
+}
+/*firstname*/
+
+
+/*firstname*/
+#Mob {
+  position: relative;
+  width: 100%;
+  max-width: 240px;
+}
+#Mob input {
+  outline: none;
+  width: 100%;
+  font-size: 16px;
+  border: 0;
+  border-radius: 4px;
+  line-height: 24px;
+  padding: 8px 36px 8px 14px;
+  box-shadow: 0 4px 12px -2px rgba(107, 117, 161, .16);
+  color: #797c86;
+}
+#Mob input::-webkit-input-placeholder {
+  color: #c7c8cc;
+}
+#Mob input:-moz-placeholder {
+  color: #c7c8cc;
+}
+#Mob input::-moz-placeholder {
+  color: #c7c8cc;
+}
+#Mob input:-ms-input-placeholder {
+  color: #c7c8cc;
+}
+#Mob svg {
+  position: absolute;
+  z-index: 1;
+  right: 129px;
+  top: 50%;
+  width: 20px;
+  height: 20px;
+  fill: none;
+  margin: -10px 0 0 0;
+}
+#Mob svg polyline, #Mob svg path {
+  stroke: #d1d7e3;
+  stroke-width: 1.4;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  transition: stroke 0.3s ease 0s;
+}
+#Mob svg path {
+  stroke-dasharray: 64;
+  stroke-dashoffset: 127;
+  transition: stroke-dasharray 0.8s ease 0.8s, stroke-dashoffset 0.8s ease 0.5s;
+}
+#Mob svg polyline {
+  stroke-dasharray: 18;
+  stroke-dashoffset: 18;
+  transition: stroke-dashoffset 0.5s ease 0s;
+}
+#Mob.success svg polyline, #Mob.success svg path {
+  stroke: #69dd95;
+}
+#Mob.success svg path {
+  stroke-dasharray: 46;
+  stroke-dashoffset: 150;
+  transition: stroke-dasharray 0.6s ease 0s, stroke-dashoffset 0.8s ease 0.3s, stroke 0.3s ease 0.6s;
+}
+#Mob.success svg polyline {
+  stroke-dashoffset: 0;
+  transition: stroke-dashoffset 0.5s ease 0.6s, stroke 0.3s ease 0.6s;
+}
+/*firstname*/
+
+
+/*firstname*/
+#EmaiL {
+  position: relative;
+  width: 100%;
+  max-width: 240px;
+}
+#EmaiL input {
+  outline: none;
+  width: 100%;
+  font-size: 16px;
+  border: 0;
+  border-radius: 4px;
+  line-height: 24px;
+  padding: 8px 36px 8px 14px;
+  box-shadow: 0 4px 12px -2px rgba(107, 117, 161, .16);
+  color: #797c86;
+}
+#EmaiL input::-webkit-input-placeholder {
+  color: #c7c8cc;
+}
+#EmaiL input:-moz-placeholder {
+  color: #c7c8cc;
+}
+#EmaiL input::-moz-placeholder {
+  color: #c7c8cc;
+}
+#EmaiL input:-ms-input-placeholder {
+  color: #c7c8cc;
+}
+#EmaiL svg {
+  position: absolute;
+  z-index: 1;
+  right: 127px;
+  top: 50%;
+  width: 20px;
+  height: 20px;
+  fill: none;
+  margin: -10px 0 0 0;
+}
+#EmaiL svg polyline, #EmaiL svg path {
+  stroke: #d1d7e3;
+  stroke-width: 1.4;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  transition: stroke 0.3s ease 0s;
+}
+#EmaiL svg path {
+  stroke-dasharray: 64;
+  stroke-dashoffset: 127;
+  transition: stroke-dasharray 0.8s ease 0.8s, stroke-dashoffset 0.8s ease 0.5s;
+}
+#EmaiL svg polyline {
+  stroke-dasharray: 18;
+  stroke-dashoffset: 18;
+  transition: stroke-dashoffset 0.5s ease 0s;
+}
+#EmaiL.success svg polyline, #EmaiL.success svg path {
+  stroke: #69dd95;
+}
+#EmaiL.success svg path {
+  stroke-dasharray: 46;
+  stroke-dashoffset: 150;
+  transition: stroke-dasharray 0.6s ease 0s, stroke-dashoffset 0.8s ease 0.3s, stroke 0.3s ease 0.6s;
+}
+#EmaiL.success svg polyline {
+  stroke-dashoffset: 0;
+  transition: stroke-dashoffset 0.5s ease 0.6s, stroke 0.3s ease 0.6s;
+}
+/*firstname*/
+
+
+/*firstname*/
+#PassworD {
+  position: relative;
+  width: 100%;
+  max-width: 240px;
+}
+#PassworD input {
+  outline: none;
+  width: 100%;
+  font-size: 16px;
+  border: 0;
+  border-radius: 4px;
+  line-height: 24px;
+  padding: 8px 36px 8px 14px;
+  box-shadow: 0 4px 12px -2px rgba(107, 117, 161, .16);
+  color: #797c86;
+}
+#PassworD input::-webkit-input-placeholder {
+  color: #c7c8cc;
+}
+#PassworD input:-moz-placeholder {
+  color: #c7c8cc;
+}
+#PassworD input::-moz-placeholder {
+  color: #c7c8cc;
+}
+#PassworD input:-ms-input-placeholder {
+  color: #c7c8cc;
+}
+#PassworD svg {
+  position: absolute;
+  z-index: 1;
+  right: 14px;
+  top: 50%;
+  width: 20px;
+  height: 20px;
+  fill: none;
+  margin: -10px 0 0 0;
+}
+#PassworD svg polyline, #PassworD svg path {
+  stroke: #d1d7e3;
+  stroke-width: 1.4;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  transition: stroke 0.3s ease 0s;
+}
+#PassworD svg path {
+  stroke-dasharray: 64;
+  stroke-dashoffset: 127;
+  transition: stroke-dasharray 0.8s ease 0.8s, stroke-dashoffset 0.8s ease 0.5s;
+}
+#PassworD svg polyline {
+  stroke-dasharray: 18;
+  stroke-dashoffset: 18;
+  transition: stroke-dashoffset 0.5s ease 0s;
+}
+#PassworD.success svg polyline, #PassworD.success svg path {
+  stroke: #69dd95;
+}
+#PassworD.success svg path {
+  stroke-dasharray: 46;
+  stroke-dashoffset: 150;
+  transition: stroke-dasharray 0.6s ease 0s, stroke-dashoffset 0.8s ease 0.3s, stroke 0.3s ease 0.6s;
+}
+#PassworD.success svg polyline {
+  stroke-dashoffset: 0;
+  transition: stroke-dashoffset 0.5s ease 0.6s, stroke 0.3s ease 0.6s;
+}
+/*firstname*/
+
+
+/*firstname*/
+#CPassworD {
+  position: relative;
+  width: 100%;
+  max-width: 240px;
+}
+#CPassworD input {
+  outline: none;
+  width: 100%;
+  font-size: 16px;
+  border: 0;
+  border-radius: 4px;
+  line-height: 24px;
+  padding: 8px 36px 8px 14px;
+  box-shadow: 0 4px 12px -2px rgba(107, 117, 161, .16);
+  color: #797c86;
+}
+#CPassworD input::-webkit-input-placeholder {
+  color: #c7c8cc;
+}
+#CPassworD input:-moz-placeholder {
+  color: #c7c8cc;
+}
+#CPassworD input::-moz-placeholder {
+  color: #c7c8cc;
+}
+#CPassworD input:-ms-input-placeholder {
+  color: #c7c8cc;
+}
+#CPassworD svg {
+  position: absolute;
+  z-index: 1;
+  right: 14px;
+  top: 50%;
+  width: 20px;
+  height: 20px;
+  fill: none;
+  margin: -10px 0 0 0;
+}
+#CPassworD svg polyline, #CPassworD svg path {
+  stroke: #d1d7e3;
+  stroke-width: 1.4;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  transition: stroke 0.3s ease 0s;
+}
+#CPassworD svg path {
+  stroke-dasharray: 64;
+  stroke-dashoffset: 127;
+  transition: stroke-dasharray 0.8s ease 0.8s, stroke-dashoffset 0.8s ease 0.5s;
+}
+#CPassworD svg polyline {
+  stroke-dasharray: 18;
+  stroke-dashoffset: 18;
+  transition: stroke-dashoffset 0.5s ease 0s;
+}
+#CPassworD.success svg polyline, #CPassworD.success svg path {
+  stroke: #69dd95;
+}
+#CPassworD.success svg path {
+  stroke-dasharray: 46;
+  stroke-dashoffset: 150;
+  transition: stroke-dasharray 0.6s ease 0s, stroke-dashoffset 0.8s ease 0.3s, stroke 0.3s ease 0.6s;
+}
+#CPassworD.success svg polyline {
+  stroke-dashoffset: 0;
+  transition: stroke-dashoffset 0.5s ease 0.6s, stroke 0.3s ease 0.6s;
+}
+/*firstname*/
+
+
+/*firstname*/
+#Cap {
+  position: relative;
+  width: 100%;
+  max-width: 240px;
+}
+#Cap input {
+  outline: none;
+  width: 100%;
+  font-size: 16px;
+  border: 0;
+  border-radius: 4px;
+  line-height: 24px;
+  padding: 8px 36px 8px 14px;
+  box-shadow: 0 4px 12px -2px rgba(107, 117, 161, .16);
+  color: #797c86;
+}
+#Cap input::-webkit-input-placeholder {
+  color: #c7c8cc;
+}
+#Cap input:-moz-placeholder {
+  color: #c7c8cc;
+}
+#Cap input::-moz-placeholder {
+  color: #c7c8cc;
+}
+#Cap input:-ms-input-placeholder {
+  color: #c7c8cc;
+}
+#Cap svg {
+  position: absolute;
+  z-index: 1;
+  right: 14px;
+  top: 50%;
+  width: 20px;
+  height: 20px;
+  fill: none;
+  margin: -10px 0 0 0;
+}
+#Cap svg polyline, #Cap svg path {
+  stroke: #d1d7e3;
+  stroke-width: 1.4;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  transition: stroke 0.3s ease 0s;
+}
+#Cap svg path {
+  stroke-dasharray: 64;
+  stroke-dashoffset: 127;
+  transition: stroke-dasharray 0.8s ease 0.8s, stroke-dashoffset 0.8s ease 0.5s;
+}
+#Cap svg polyline {
+  stroke-dasharray: 18;
+  stroke-dashoffset: 18;
+  transition: stroke-dashoffset 0.5s ease 0s;
+}
+#Cap.success svg polyline, #Cap.success svg path {
+  stroke: #69dd95;
+}
+#Cap.success svg path {
+  stroke-dasharray: 46;
+  stroke-dashoffset: 150;
+  transition: stroke-dasharray 0.6s ease 0s, stroke-dashoffset 0.8s ease 0.3s, stroke 0.3s ease 0.6s;
+}
+#Cap.success svg polyline {
+  stroke-dashoffset: 0;
+  transition: stroke-dashoffset 0.5s ease 0.6s, stroke 0.3s ease 0.6s;
+}
+/*firstname*/
+
+
+
+
+
+
+
+
+/*lastname*/
+.lastName {
+  position: relative;
+  width: 100%;
+  max-width: 240px;
+}
+.lastName input {
+  outline: none;
+  width: 100%;
+  font-size: 16px;
+  border: 0;
+  border-radius: 4px;
+  line-height: 24px;
+  padding: 8px 36px 8px 14px;
+  box-shadow: 0 4px 12px -2px rgba(107, 117, 161, .16);
+  color: #797c86;
+}
+.lastName input::-webkit-input-placeholder {
+  color: #c7c8cc;
+}
+.lastName input:-moz-placeholder {
+  color: #c7c8cc;
+}
+.lastName input::-moz-placeholder {
+  color: #c7c8cc;
+}
+.lastName input:-ms-input-placeholder {
+  color: #c7c8cc;
+}
+.lastName svg {
+  position: absolute;
+  z-index: 1;
+  right: 14px;
+  top: 50%;
+  width: 20px;
+  height: 20px;
+  fill: none;
+  margin: -10px 0 0 0;
+}
+.lastName svg polyline, .lastName svg path {
+  stroke: #d1d7e3;
+  stroke-width: 1.4;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  transition: stroke 0.3s ease 0s;
+}
+.lastName svg path {
+  stroke-dasharray: 64;
+  stroke-dashoffset: 127;
+  transition: stroke-dasharray 0.8s ease 0.8s, stroke-dashoffset 0.8s ease 0.5s;
+}
+.lastName svg polyline {
+  stroke-dasharray: 18;
+  stroke-dashoffset: 18;
+  transition: stroke-dashoffset 0.5s ease 0s;
+}
+.lastName.success svg polyline, .lastName.success svg path {
+  stroke: #69dd95;
+}
+.lastName.success svg path {
+  stroke-dasharray: 46;
+  stroke-dashoffset: 150;
+  transition: stroke-dasharray 0.6s ease 0s, stroke-dashoffset 0.8s ease 0.3s, stroke 0.3s ease 0.6s;
+}
+.lastName.success svg polyline {
+  stroke-dashoffset: 0;
+  transition: stroke-dashoffset 0.5s ease 0.6s, stroke 0.3s ease 0.6s;
+}
+/*lastname*/
+.email {
+  position: relative;
+  width: 100%;
+  max-width: 240px;
+}
+.email input {
+  outline: none;
+  width: 100%;
+  font-size: 16px;
+  border: 0;
+  border-radius: 4px;
+  line-height: 24px;
+  padding: 8px 36px 8px 14px;
+  box-shadow: 0 4px 12px -2px rgba(107, 117, 161, .16);
+  color: #797c86;
+}
+.email input::-webkit-input-placeholder {
+  color: #c7c8cc;
+}
+.email input:-moz-placeholder {
+  color: #c7c8cc;
+}
+.email input::-moz-placeholder {
+  color: #c7c8cc;
+}
+.email input:-ms-input-placeholder {
+  color: #c7c8cc;
+}
+.email svg {
+  position: absolute;
+  z-index: 1;
+  right: 14px;
+  top: 50%;
+  width: 20px;
+  height: 20px;
+  fill: none;
+  margin: -10px 0 0 0;
+}
+.email svg polyline, .email svg path {
+  stroke: #d1d7e3;
+  stroke-width: 1.4;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  transition: stroke 0.3s ease 0s;
+}
+.email svg path {
+  stroke-dasharray: 64;
+  stroke-dashoffset: 127;
+  transition: stroke-dasharray 0.8s ease 0.8s, stroke-dashoffset 0.8s ease 0.5s;
+}
+.email svg polyline {
+  stroke-dasharray: 18;
+  stroke-dashoffset: 18;
+  transition: stroke-dashoffset 0.5s ease 0s;
+}
+.email.success svg polyline, .email.success svg path {
+  stroke: #69dd95;
+}
+.email.success svg path {
+  stroke-dasharray: 46;
+  stroke-dashoffset: 150;
+  transition: stroke-dasharray 0.6s ease 0s, stroke-dashoffset 0.8s ease 0.3s, stroke 0.3s ease 0.6s;
+}
+.email.success svg polyline {
+  stroke-dashoffset: 0;
+  transition: stroke-dashoffset 0.5s ease 0.6s, stroke 0.3s ease 0.6s;
+}
+
+
+
+/*html {
+  box-sizing: border-box;
+}
+* {
+  box-sizing: inherit;
+}
+*:before, *:after {
+  box-sizing: inherit;
+}
+body {
+  min-height: 100vh;
+  font-family: Roboto, Arial;
+  color: #adafb6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #fafafc;
+}
+body .dribbble {
+  position: fixed;
+  display: block;
+  right: 20px;
+  bottom: 20px;
+  opacity: 0.5;
+  transition: all 0.4s ease;
+}
+body .dribbble:hover {
+  opacity: 1;
+}
+body .dribbble img {
+  display: block;
+  height: 36px;
+}*/

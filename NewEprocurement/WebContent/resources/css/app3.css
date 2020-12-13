@@ -1,0 +1,841 @@
+/*vikalp*/
+/*Circle*/
+#FirstnamE {
+  position: relative;
+/*  width: 100%;
+  max-width: 240px;*/
+}
+#FirstnamE input {
+  outline: none;
+  width: 100%;
+  font-size: 16px;
+  border: 0;
+  border-radius: 4px;
+  line-height: 24px;
+  
+  box-shadow: 0 4px 12px -2px rgba(107, 117, 161, .16);
+  color: #797c86;
+}
+#FirstnamE input::-webkit-input-placeholder {
+  color: #c7c8cc;
+}
+#FirstnamE input:-moz-placeholder {
+  color: #c7c8cc;
+}
+#FirstnamE input::-moz-placeholder {
+  color: #c7c8cc;
+}
+#FirstnamE input:-ms-input-placeholder {
+  color: #c7c8cc;
+}
+#FirstnamE svg {
+  position: absolute;
+  z-index: 1;
+  right: 14px;
+  top: 50%;
+  width: 20px;
+  height: 20px;
+  fill: none;
+  margin: -10px 0 0 0;
+}
+#FirstnamE svg polyline, #FirstnamE svg path {
+  stroke: #d1d7e3;
+  stroke-width: 1.4;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  transition: stroke 0.3s ease 0s;
+}
+#FirstnamE svg path {
+  stroke-dasharray: 64;
+  stroke-dashoffset: 127;
+  transition: stroke-dasharray 0.8s ease 0.8s, stroke-dashoffset 0.8s ease 0.5s;
+}
+#FirstnamE svg polyline {
+  stroke-dasharray: 18;
+  stroke-dashoffset: 18;
+  transition: stroke-dashoffset 0.5s ease 0s;
+}
+#FirstnamE.success svg polyline, #FirstnamE.success svg path {
+  stroke: #69dd95;
+}
+#FirstnamE.success svg path {
+  stroke-dasharray: 46;
+  stroke-dashoffset: 150;
+  transition: stroke-dasharray 0.6s ease 0s, stroke-dashoffset 0.8s ease 0.3s, stroke 0.3s ease 0.6s;
+}
+#FirstnamE.success svg polyline {
+  stroke-dashoffset: 0;
+  transition: stroke-dashoffset 0.5s ease 0.6s, stroke 0.3s ease 0.6s;
+}
+/*Circle*/
+
+
+/*Circle*/
+#LastnamE {
+  position: relative;
+/*  width: 100%;
+  max-width: 240px;*/
+}
+#LastnamE input {
+  outline: none;
+  width: 100%;
+  font-size: 16px;
+  border: 0;
+  border-radius: 4px;
+  line-height: 24px;
+ 
+  box-shadow: 0 4px 12px -2px rgba(107, 117, 161, .16);
+  color: #797c86;
+}
+#LastnamE input::-webkit-input-placeholder {
+  color: #c7c8cc;
+}
+#LastnamE input:-moz-placeholder {
+  color: #c7c8cc;
+}
+#LastnamE input::-moz-placeholder {
+  color: #c7c8cc;
+}
+#LastnamE input:-ms-input-placeholder {
+  color: #c7c8cc;
+}
+#LastnamE svg {
+  position: absolute;
+  z-index: 1;
+  right: 14px;
+  top: 50%;
+  width: 20px;
+  height: 20px;
+  fill: none;
+  margin: -10px 0 0 0;
+}
+#LastnamE svg polyline, #LastnamE svg path {
+  stroke: #d1d7e3;
+  stroke-width: 1.4;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  transition: stroke 0.3s ease 0s;
+}
+#LastnamE svg path {
+  stroke-dasharray: 64;
+  stroke-dashoffset: 127;
+  transition: stroke-dasharray 0.8s ease 0.8s, stroke-dashoffset 0.8s ease 0.5s;
+}
+#LastnamE svg polyline {
+  stroke-dasharray: 18;
+  stroke-dashoffset: 18;
+  transition: stroke-dashoffset 0.5s ease 0s;
+}
+#LastnamE.success svg polyline, #LastnamE.success svg path {
+  stroke: #69dd95;
+}
+#LastnamE.success svg path {
+  stroke-dasharray: 46;
+  stroke-dashoffset: 150;
+  transition: stroke-dasharray 0.6s ease 0s, stroke-dashoffset 0.8s ease 0.3s, stroke 0.3s ease 0.6s;
+}
+#LastnamE.success svg polyline {
+  stroke-dashoffset: 0;
+  transition: stroke-dashoffset 0.5s ease 0.6s, stroke 0.3s ease 0.6s;
+}
+/*Circle*/
+
+/*Division*/
+#EmailiD {
+  position: relative;
+
+}
+#EmailiD input {
+  outline: none;
+  width: 100%;
+  font-size: 16px;
+  border: 0;
+  border-radius: 4px;
+  line-height: 24px;
+ 
+  box-shadow: 0 4px 12px -2px rgba(107, 117, 161, .16);
+  color: #797c86;
+}
+#EmailiD input::-webkit-input-placeholder {
+  color: #c7c8cc;
+}
+#EmailiD input:-moz-placeholder {
+  color: #c7c8cc;
+}
+#EmailiD input::-moz-placeholder {
+  color: #c7c8cc;
+}
+#EmailiD input:-ms-input-placeholder {
+  color: #c7c8cc;
+}
+#EmailiD svg {
+  position: absolute;
+  z-index: 1;
+  right: 14px;
+  top: 50%;
+  width: 20px;
+  height: 20px;
+  fill: none;
+  margin: -10px 0 0 0;
+}
+#EmailiD svg polyline, #EmailiD svg path {
+  stroke: #d1d7e3;
+  stroke-width: 1.4;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  transition: stroke 0.3s ease 0s;
+}
+#EmailiD svg path {
+  stroke-dasharray: 64;
+  stroke-dashoffset: 127;
+  transition: stroke-dasharray 0.8s ease 0.8s, stroke-dashoffset 0.8s ease 0.5s;
+}
+#EmailiD svg polyline {
+  stroke-dasharray: 18;
+  stroke-dashoffset: 18;
+  transition: stroke-dashoffset 0.5s ease 0s;
+}
+#EmailiD.success svg polyline, #EmailiD.success svg path {
+  stroke: #69dd95;
+}
+#EmailiD.success svg path {
+  stroke-dasharray: 46;
+  stroke-dashoffset: 150;
+  transition: stroke-dasharray 0.6s ease 0s, stroke-dashoffset 0.8s ease 0.3s, stroke 0.3s ease 0.6s;
+}
+#EmailiD.success svg polyline {
+  stroke-dashoffset: 0;
+  transition: stroke-dashoffset 0.5s ease 0.6s, stroke 0.3s ease 0.6s;
+}
+/*Division*/
+
+/*AreaOfWork*/
+#PassworD {
+  position: relative;
+  
+}
+#PassworD input {
+  outline: none;
+  width: 100%;
+  font-size: 16px;
+  border: 0;
+  border-radius: 4px;
+  line-height: 24px;
+ 
+  box-shadow: 0 4px 12px -2px rgba(107, 117, 161, .16);
+  color: #797c86;
+}
+#PassworD input::-webkit-input-placeholder {
+  color: #c7c8cc;
+}
+#PassworD input:-moz-placeholder {
+  color: #c7c8cc;
+}
+#PassworD input::-moz-placeholder {
+  color: #c7c8cc;
+}
+#PassworD input:-ms-input-placeholder {
+  color: #c7c8cc;
+}
+#PassworD svg {
+  position: absolute;
+  z-index: 1;
+  right: 14px;
+  top: 50%;
+  width: 20px;
+  height: 20px;
+  fill: none;
+  margin: -10px 0 0 0;
+}
+#PassworD svg polyline, #PassworD svg path {
+  stroke: #d1d7e3;
+  stroke-width: 1.4;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  transition: stroke 0.3s ease 0s;
+}
+#PassworD svg path {
+  stroke-dasharray: 64;
+  stroke-dashoffset: 127;
+  transition: stroke-dasharray 0.8s ease 0.8s, stroke-dashoffset 0.8s ease 0.5s;
+}
+#PassworD svg polyline {
+  stroke-dasharray: 18;
+  stroke-dashoffset: 18;
+  transition: stroke-dashoffset 0.5s ease 0s;
+}
+#PassworD.success svg polyline, #PassworD.success svg path {
+  stroke: #69dd95;
+}
+#PassworD.success svg path {
+  stroke-dasharray: 46;
+  stroke-dashoffset: 150;
+  transition: stroke-dasharray 0.6s ease 0s, stroke-dashoffset 0.8s ease 0.3s, stroke 0.3s ease 0.6s;
+}
+#PassworD.success svg polyline {
+  stroke-dashoffset: 0;
+  transition: stroke-dashoffset 0.5s ease 0.6s, stroke 0.3s ease 0.6s;
+}
+/*AreaOfWork*/
+
+/*UpdateDivision*/
+#MobilE {
+  position: relative;
+ 
+}
+#MobilE input {
+  outline: none;
+  width: 100%;
+  font-size: 16px;
+  border: 0;
+  border-radius: 4px;
+  line-height: 24px;
+  
+  box-shadow: 0 4px 12px -2px rgba(107, 117, 161, .16);
+  color: #797c86;
+}
+#MobilE input::-webkit-input-placeholder {
+  color: #c7c8cc;
+}
+#MobilE input:-moz-placeholder {
+  color: #c7c8cc;
+}
+#MobilE input::-moz-placeholder {
+  color: #c7c8cc;
+}
+#MobilE input:-ms-input-placeholder {
+  color: #c7c8cc;
+}
+#MobilE svg {
+  position: absolute;
+  z-index: 1;
+  right: 14px;
+  top: 50%;
+  width: 20px;
+  height: 20px;
+  fill: none;
+  margin: -10px 0 0 0;
+}
+#MobilE svg polyline, #MobilE svg path {
+  stroke: #d1d7e3;
+  stroke-width: 1.4;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  transition: stroke 0.3s ease 0s;
+}
+#MobilE svg path {
+  stroke-dasharray: 64;
+  stroke-dashoffset: 127;
+  transition: stroke-dasharray 0.8s ease 0.8s, stroke-dashoffset 0.8s ease 0.5s;
+}
+#MobilE svg polyline {
+  stroke-dasharray: 18;
+  stroke-dashoffset: 18;
+  transition: stroke-dashoffset 0.5s ease 0s;
+}
+#MobilE.success svg polyline, #MobilE.success svg path {
+  stroke: #69dd95;
+}
+#MobilE.success svg path {
+  stroke-dasharray: 46;
+  stroke-dashoffset: 150;
+  transition: stroke-dasharray 0.6s ease 0s, stroke-dashoffset 0.8s ease 0.3s, stroke 0.3s ease 0.6s;
+}
+#MobilE.success svg polyline {
+  stroke-dashoffset: 0;
+  transition: stroke-dashoffset 0.5s ease 0.6s, stroke 0.3s ease 0.6s;
+}
+/*UpdateDivision*/
+
+
+/*City*/
+#LogiN {
+  position: relative;
+  
+}
+#LogiN input {
+  outline: none;
+  width: 100%;
+  font-size: 16px;
+  border: 0;
+  border-radius: 4px;
+  line-height: 24px;
+ 
+  box-shadow: 0 4px 12px -2px rgba(107, 117, 161, .16);
+  color: #797c86;
+}
+#LogiN input::-webkit-input-placeholder {
+  color: #c7c8cc;
+}
+#LogiN input:-moz-placeholder {
+  color: #c7c8cc;
+}
+#LogiN input::-moz-placeholder {
+  color: #c7c8cc;
+}
+#LogiN input:-ms-input-placeholder {
+  color: #c7c8cc;
+}
+#LogiN svg {
+  position: absolute;
+  z-index: 1;
+  right: 14px;
+  top: 50%;
+  width: 20px;
+  height: 20px;
+  fill: none;
+  margin: -10px 0 0 0;
+}
+#LogiN svg polyline, #LogiN svg path {
+  stroke: #d1d7e3;
+  stroke-width: 1.4;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  transition: stroke 0.3s ease 0s;
+}
+#LogiN svg path {
+  stroke-dasharray: 64;
+  stroke-dashoffset: 127;
+  transition: stroke-dasharray 0.8s ease 0.8s, stroke-dashoffset 0.8s ease 0.5s;
+}
+#LogiN svg polyline {
+  stroke-dasharray: 18;
+  stroke-dashoffset: 18;
+  transition: stroke-dashoffset 0.5s ease 0s;
+}
+#LogiN.success svg polyline, #LogiN.success svg path {
+  stroke: #69dd95;
+}
+#LogiN.success svg path {
+  stroke-dasharray: 46;
+  stroke-dashoffset: 150;
+  transition: stroke-dasharray 0.6s ease 0s, stroke-dashoffset 0.8s ease 0.3s, stroke 0.3s ease 0.6s;
+}
+#LogiN.success svg polyline {
+  stroke-dashoffset: 0;
+  transition: stroke-dashoffset 0.5s ease 0.6s, stroke 0.3s ease 0.6s;
+}
+/*City*/
+
+/*SubDivision*/
+#Deg {
+  position: relative;
+  
+}
+#Deg select {
+  outline: none;
+  width: 100%;
+  font-size: 16px;
+  border: 0;
+  border-radius: 4px;
+  line-height: 24px;
+ 
+  box-shadow: 0 4px 12px -2px rgba(107, 117, 161, .16);
+  color: #797c86;
+}
+#Deg select::-webkit-input-placeholder {
+  color: #c7c8cc;
+}
+#Deg select:-moz-placeholder {
+  color: #c7c8cc;
+}
+#Deg select::-moz-placeholder {
+  color: #c7c8cc;
+}
+#Deg select:-ms-input-placeholder {
+  color: #c7c8cc;
+}
+#Deg svg {
+  position: absolute;
+  z-index: 1;
+  right: 14px;
+  top: 50%;
+  width: 20px;
+  height: 20px;
+  fill: none;
+  margin: -10px 0 0 0;
+}
+#Deg svg polyline, #Deg svg path {
+  stroke: #d1d7e3;
+  stroke-width: 1.4;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  transition: stroke 0.3s ease 0s;
+}
+#Deg svg path {
+  stroke-dasharray: 64;
+  stroke-dashoffset: 127;
+  transition: stroke-dasharray 0.8s ease 0.8s, stroke-dashoffset 0.8s ease 0.5s;
+}
+#Deg svg polyline {
+  stroke-dasharray: 18;
+  stroke-dashoffset: 18;
+  transition: stroke-dashoffset 0.5s ease 0s;
+}
+#Deg.success svg polyline, #Deg.success svg path {
+  stroke: #69dd95;
+}
+#Deg.success svg path {
+  stroke-dasharray: 46;
+  stroke-dashoffset: 150;
+  transition: stroke-dasharray 0.6s ease 0s, stroke-dashoffset 0.8s ease 0.3s, stroke 0.3s ease 0.6s;
+}
+#Deg.success svg polyline {
+  stroke-dashoffset: 0;
+  transition: stroke-dashoffset 0.5s ease 0.6s, stroke 0.3s ease 0.6s;
+}
+/*SubDivision*/
+
+
+/*SubDivision*/
+#cirCle {
+  position: relative;
+  
+}
+#cirCle select {
+  outline: none;
+  width: 100%;
+  font-size: 16px;
+  border: 0;
+  border-radius: 4px;
+  line-height: 24px;
+ 
+  box-shadow: 0 4px 12px -2px rgba(107, 117, 161, .16);
+  color: #797c86;
+}
+#cirCle select::-webkit-input-placeholder {
+  color: #c7c8cc;
+}
+#cirCle select:-moz-placeholder {
+  color: #c7c8cc;
+}
+#cirCle select::-moz-placeholder {
+  color: #c7c8cc;
+}
+#cirCle select:-ms-input-placeholder {
+  color: #c7c8cc;
+}
+#cirCle svg {
+  position: absolute;
+  z-index: 1;
+  right: 14px;
+  top: 50%;
+  width: 20px;
+  height: 20px;
+  fill: none;
+  margin: -10px 0 0 0;
+}
+#cirCle svg polyline, #cirCle svg path {
+  stroke: #d1d7e3;
+  stroke-width: 1.4;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  transition: stroke 0.3s ease 0s;
+}
+#cirCle svg path {
+  stroke-dasharray: 64;
+  stroke-dashoffset: 127;
+  transition: stroke-dasharray 0.8s ease 0.8s, stroke-dashoffset 0.8s ease 0.5s;
+}
+#cirCle svg polyline {
+  stroke-dasharray: 18;
+  stroke-dashoffset: 18;
+  transition: stroke-dashoffset 0.5s ease 0s;
+}
+#cirCle.success svg polyline, #cirCle.success svg path {
+  stroke: #69dd95;
+}
+#cirCle.success svg path {
+  stroke-dasharray: 46;
+  stroke-dashoffset: 150;
+  transition: stroke-dasharray 0.6s ease 0s, stroke-dashoffset 0.8s ease 0.3s, stroke 0.3s ease 0.6s;
+}
+#cirCle.success svg polyline {
+  stroke-dashoffset: 0;
+  transition: stroke-dashoffset 0.5s ease 0.6s, stroke 0.3s ease 0.6s;
+}
+/*SubDivision*/
+
+
+/*SubDivision*/
+#Div {
+  position: relative;
+  
+}
+#Div select {
+  outline: none;
+  width: 100%;
+  font-size: 16px;
+  border: 0;
+  border-radius: 4px;
+  line-height: 24px;
+ 
+  box-shadow: 0 4px 12px -2px rgba(107, 117, 161, .16);
+  color: #797c86;
+}
+#Div select::-webkit-input-placeholder {
+  color: #c7c8cc;
+}
+#Div select:-moz-placeholder {
+  color: #c7c8cc;
+}
+#Div select::-moz-placeholder {
+  color: #c7c8cc;
+}
+#Div select:-ms-input-placeholder {
+  color: #c7c8cc;
+}
+#Div svg {
+  position: absolute;
+  z-index: 1;
+  right: 14px;
+  top: 50%;
+  width: 20px;
+  height: 20px;
+  fill: none;
+  margin: -10px 0 0 0;
+}
+#Div svg polyline, #Div svg path {
+  stroke: #d1d7e3;
+  stroke-width: 1.4;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  transition: stroke 0.3s ease 0s;
+}
+#Div svg path {
+  stroke-dasharray: 64;
+  stroke-dashoffset: 127;
+  transition: stroke-dasharray 0.8s ease 0.8s, stroke-dashoffset 0.8s ease 0.5s;
+}
+#Div svg polyline {
+  stroke-dasharray: 18;
+  stroke-dashoffset: 18;
+  transition: stroke-dashoffset 0.5s ease 0s;
+}
+#Div.success svg polyline, #Div.success svg path {
+  stroke: #69dd95;
+}
+#Div.success svg path {
+  stroke-dasharray: 46;
+  stroke-dashoffset: 150;
+  transition: stroke-dasharray 0.6s ease 0s, stroke-dashoffset 0.8s ease 0.3s, stroke 0.3s ease 0.6s;
+}
+#Div.success svg polyline {
+  stroke-dashoffset: 0;
+  transition: stroke-dashoffset 0.5s ease 0.6s, stroke 0.3s ease 0.6s;
+}
+/*SubDivision*/
+
+
+/*SubDivision*/
+#SubdiV {
+  position: relative;
+   
+}
+#SubdiV select {
+  outline: none;
+  width: 100%;
+  font-size: 16px;
+  border: 0;
+  border-radius: 4px;
+  line-height: 24px;
+ 
+  box-shadow: 0 4px 12px -2px rgba(107, 117, 161, .16);
+  color: #797c86;
+}
+#SubdiV select::-webkit-input-placeholder {
+  color: #c7c8cc;
+}
+#SubdiV select:-moz-placeholder {
+  color: #c7c8cc;
+}
+#SubdiV select::-moz-placeholder {
+  color: #c7c8cc;
+}
+#SubdiV select:-ms-input-placeholder {
+  color: #c7c8cc;
+}
+#SubdiV svg {
+  position: absolute;
+  z-index: 1;
+  right: 14px;
+  top: 50%;
+  width: 20px;
+  height: 20px;
+  fill: none;
+  margin: -10px 0 0 0;
+}
+#SubdiV svg polyline, #SubdiV svg path {
+  stroke: #d1d7e3;
+  stroke-width: 1.4;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  transition: stroke 0.3s ease 0s;
+}
+#SubdiV svg path {
+  stroke-dasharray: 64;
+  stroke-dashoffset: 127;
+  transition: stroke-dasharray 0.8s ease 0.8s, stroke-dashoffset 0.8s ease 0.5s;
+}
+#SubdiV svg polyline {
+  stroke-dasharray: 18;
+  stroke-dashoffset: 18;
+  transition: stroke-dashoffset 0.5s ease 0s;
+}
+#SubdiV.success svg polyline, #SubdiV.success svg path {
+  stroke: #69dd95;
+}
+#SubdiV.success svg path {
+  stroke-dasharray: 46;
+  stroke-dashoffset: 150;
+  transition: stroke-dasharray 0.6s ease 0s, stroke-dashoffset 0.8s ease 0.3s, stroke 0.3s ease 0.6s;
+}
+#SubdiV.success svg polyline {
+  stroke-dashoffset: 0;
+  transition: stroke-dashoffset 0.5s ease 0.6s, stroke 0.3s ease 0.6s;
+}
+/*SubDivision*/
+
+
+
+/*Circle*/
+#AddresS {
+  position: relative;
+  
+}
+#AddresS input {
+  outline: none;
+  width: 100%;
+  font-size: 16px;
+  border: 0;
+  border-radius: 4px;
+  line-height: 24px;
+ 
+  box-shadow: 0 4px 12px -2px rgba(107, 117, 161, .16);
+  color: #797c86;
+}
+#AddresS input::-webkit-input-placeholder {
+  color: #c7c8cc;
+}
+#AddresS input:-moz-placeholder {
+  color: #c7c8cc;
+}
+#AddresS input::-moz-placeholder {
+  color: #c7c8cc;
+}
+#AddresS input:-ms-input-placeholder {
+  color: #c7c8cc;
+}
+#AddresS svg {
+  position: absolute;
+  z-index: 1;
+  right: 14px;
+  top: 50%;
+  width: 20px;
+  height: 20px;
+  fill: none;
+  margin: -10px 0 0 0;
+}
+#AddresS svg polyline, #AddresS svg path {
+  stroke: #d1d7e3;
+  stroke-width: 1.4;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  transition: stroke 0.3s ease 0s;
+}
+#AddresS svg path {
+  stroke-dasharray: 64;
+  stroke-dashoffset: 127;
+  transition: stroke-dasharray 0.8s ease 0.8s, stroke-dashoffset 0.8s ease 0.5s;
+}
+#AddresS svg polyline {
+  stroke-dasharray: 18;
+  stroke-dashoffset: 18;
+  transition: stroke-dashoffset 0.5s ease 0s;
+}
+#AddresS.success svg polyline, #AddresS.success svg path {
+  stroke: #69dd95;
+}
+#AddresS.success svg path {
+  stroke-dasharray: 46;
+  stroke-dashoffset: 150;
+  transition: stroke-dasharray 0.6s ease 0s, stroke-dashoffset 0.8s ease 0.3s, stroke 0.3s ease 0.6s;
+}
+#AddresS.success svg polyline {
+  stroke-dashoffset: 0;
+  transition: stroke-dashoffset 0.5s ease 0.6s, stroke 0.3s ease 0.6s;
+}
+/*Circle*/
+
+/*UpdateSubDivision*/
+#PincodE {
+  position: relative;
+   
+}
+#PincodE input {
+  outline: none;
+  width: 100%;
+  font-size: 16px;
+  border: 0;
+  border-radius: 4px;
+  line-height: 24px;
+ 
+  box-shadow: 0 4px 12px -2px rgba(107, 117, 161, .16);
+  color: #797c86;
+}
+#PincodE input::-webkit-input-placeholder {
+  color: #c7c8cc;
+}
+#PincodE input:-moz-placeholder {
+  color: #c7c8cc;
+}
+#PincodE input::-moz-placeholder {
+  color: #c7c8cc;
+}
+#PincodE input:-ms-input-placeholder {
+  color: #c7c8cc;
+}
+#PincodE svg {
+  position: absolute;
+  z-index: 1;
+  right: 14px;
+  top: 50%;
+  width: 20px;
+  height: 20px;
+  fill: none;
+  margin: -10px 0 0 0;
+}
+#PincodE svg polyline, #PincodE svg path {
+  stroke: #d1d7e3;
+  stroke-width: 1.4;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  transition: stroke 0.3s ease 0s;
+}
+#PincodE svg path {
+  stroke-dasharray: 64;
+  stroke-dashoffset: 127;
+  transition: stroke-dasharray 0.8s ease 0.8s, stroke-dashoffset 0.8s ease 0.5s;
+}
+#PincodE svg polyline {
+  stroke-dasharray: 18;
+  stroke-dashoffset: 18;
+  transition: stroke-dashoffset 0.5s ease 0s;
+}
+#PincodE.success svg polyline, #PincodE.success svg path {
+  stroke: #69dd95;
+}
+#PincodE.success svg path {
+  stroke-dasharray: 46;
+  stroke-dashoffset: 150;
+  transition: stroke-dasharray 0.6s ease 0s, stroke-dashoffset 0.8s ease 0.3s, stroke 0.3s ease 0.6s;
+}
+#PincodE.success svg polyline {
+  stroke-dashoffset: 0;
+  transition: stroke-dashoffset 0.5s ease 0.6s, stroke 0.3s ease 0.6s;
+}
+/*UpdateSubDivision*/
+
+
+
+

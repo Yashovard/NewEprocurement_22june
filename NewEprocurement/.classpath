@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_112">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="I:/All Jars/lib/antlr-3.5.2-complete.jar"/>
+	<classpathentry kind="lib" path="I:/All Jars/lib/antlr4-4.5.jar"/>
+	<classpathentry kind="lib" path="I:/All Jars/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="I:/All Jars/lib/commons-fileupload-1.2.2.jar"/>
+	<classpathentry kind="lib" path="I:/All Jars/lib/commons-fileupload-1.3.jar"/>
+	<classpathentry kind="lib" path="I:/All Jars/lib/commons-io-1.3.2.jar"/>
+	<classpathentry kind="lib" path="I:/All Jars/lib/commons-io-2.0.1.jar"/>
+	<classpathentry kind="lib" path="I:/All Jars/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="I:/All Jars/lib/dom4j-2.1.0.jar"/>
+	<classpathentry kind="lib" path="I:/All Jars/lib/gson-2.2.2.jar"/>
+	<classpathentry kind="lib" path="I:/All Jars/lib/hibernate-c3p0-4.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="I:/All Jars/lib/hibernate-commons-annotations-4.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="I:/All Jars/lib/hibernate-core-4.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="I:/All Jars/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="I:/All Jars/lib/itextpdf-5.2.1.jar"/>
+	<classpathentry kind="lib" path="I:/All Jars/lib/itextpdf-5.4.5.jar"/>
+	<classpathentry kind="lib" path="I:/All Jars/lib/java-json.jar"/>
+	<classpathentry kind="lib" path="I:/All Jars/lib/javassist-3.18.1-GA.jar"/>
+	<classpathentry kind="lib" path="I:/All Jars/lib/javax.mail-api-1.5.1.jar"/>
+	<classpathentry kind="lib" path="I:/All Jars/lib/javax.transaction-api-1.2.jar"/>
+	<classpathentry kind="lib" path="I:/All Jars/lib/jboss-logging-3.3.0.Final.jar"/>
+	<classpathentry kind="lib" path="I:/All Jars/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="I:/All Jars/lib/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="I:/All Jars/lib/mysql-connector-java-5.0.7-bin.jar"/>
+	<classpathentry kind="lib" path="I:/All Jars/lib/mysql-connector-java-5.1.3.jar"/>
+	<classpathentry kind="lib" path="I:/All Jars/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="I:/All Jars/lib/spring-aop-4.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="I:/All Jars/lib/spring-beans-4.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="I:/All Jars/lib/spring-context-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="I:/All Jars/lib/spring-core-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="I:/All Jars/lib/spring-dao-2.0.8.jar"/>
+	<classpathentry kind="lib" path="I:/All Jars/lib/spring-expression-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="I:/All Jars/lib/spring-jdbc-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="I:/All Jars/lib/spring-orm-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="I:/All Jars/lib/spring-tx-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="I:/All Jars/lib/spring-web-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="I:/All Jars/lib/spring-webmvc-4.2.0.RELEASE.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
